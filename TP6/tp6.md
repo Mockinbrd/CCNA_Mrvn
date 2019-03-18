@@ -43,7 +43,7 @@ Petit lab simple pour comprendre le concept.
 ## Lab 2 : Un peu de complexité (et d'utilité ?...)
 
 <p align="center">
-  <a target="_blank" rel="noopener noreferrer" href="/It4lik/B1-Reseau-2018/blob/master/tp/6/pic/lab-2-topo.png"><img src="/It4lik/B1-Reseau-2018/raw/master/tp/6/pic/lab-2-topo.png" title="Topologie du Lab 2" style="max-width:100%;"></a>
+  <a target="_blank" rel="noopener noreferrer" href="https://github.com/It4lik/B1-Reseau-2018/blob/master/tp/6/pic/lab-2-topo.png"><img src="https://github.com/It4lik/B1-Reseau-2018/blob/master/tp/6/pic/lab-2-topo.png" title="Topologie du Lab 2" style="max-width:100%;"></a>
 </p>
 
 
